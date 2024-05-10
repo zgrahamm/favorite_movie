@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Arial, sans-serif;
+    color: #68489b;
+    background-color: #b98eb9;
+}
+header {
+    background-color: #f19ae3;
+}
+h1{
+    line-height: 400%; text-indent: 1em;
+} 
+
+footer{
+font-size: 70%;
+padding: 10px;
+background-color: #99649e;
+font-style: italic;
+text-align: center;
+}
+div
+{
+    background-color: rgb(255, 127, 202);
+    font-family: Verdana, Arial, sans-serif;
+}
+main{
+    background-color: #e6b7cd;
+    color: #000000;
+    overflow: auto;
+    display: block;
+}
